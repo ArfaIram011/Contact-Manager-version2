@@ -1,0 +1,24 @@
+{
+  "contacts_data": [
+    {
+      "id": "885b5ff7-08ee-4242-b6de-5eeb4ad53beb",
+      "name": "  Imran ",
+      "email": "guestadmin002@gmail.com"
+    },
+    {
+      "id": "d5307711-e5e9-4a7a-8950-4194f998c24f",
+      "name": "Amsha",
+      "email": "g_dmin002@gmail.com"
+    },
+    {
+      "id": "4c66c7fa-e125-49dc-9944-5ab29ea295cf",
+      "name": "max",
+      "email": "max@gmail.com"
+    },
+    {
+      "id": "b8ed6376-1627-4061-b98a-2ce9de2e1ab5",
+      "name": "Min",
+      "email": "min@gmail.com"
+    }
+  ]
+}
